@@ -58,5 +58,17 @@ export const robots = [
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'SungOh Bidol-Lee',
+    username: 'Sungster',
+    email: 'sungoh@bidol-lee.com'
+  },
+  {
+    id: 12,
+    name: 'Omi Bidol-Lee',
+    username: 'Omsi',
+    email: 'omi@bidol-lee.com'
   }
 ];
